@@ -3,3 +3,21 @@
 h1 {
     color: $red-color;
 }
+.card-course-item {
+    margin-top: 16px;
+}
+.navbar-nav {
+    margin-left: auto;
+}
+.use-avatar {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    margin-right: 6px;
+    object-fit: contain;
+}
+.checkbox-select-all {
+    width: 180px;
+    outline: none;
+    margin: 0 6px;
+}
